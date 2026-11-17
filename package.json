@@ -1,0 +1,14 @@
+{
+  "name": "abasthan-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small web service.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
